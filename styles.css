@@ -1,0 +1,29 @@
+h1 {
+    color:rgba(0, 19, 12, 0.707);
+    font-size:100px;
+}
+
+.laern{
+    color:black; font-weight: bold;
+
+    font-size: 43px;
+}
+h2 {
+    color:rgb(3, 23, 23);
+}
+
+body {
+    background-color:cornflowerblue;
+}
+.donotpress {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 600px;
+    height: 200px;
+    font-size: 89px;
+    color: red;
+    background-color:rgb(48, 1, 1);
+}
